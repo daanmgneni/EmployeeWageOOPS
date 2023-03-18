@@ -4,7 +4,7 @@ namespace EmployeeWagesProblemWithuseObj
     {
         public static void Main(string[] args) 
         {
-            EmployeeWageCode obj = new EmployeeWageCode();
+            CheckEmployeeFullTime obj = new CheckEmployeeFullTime();
             obj.EmployeeAttendence();
         }
     }
